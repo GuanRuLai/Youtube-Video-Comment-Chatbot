@@ -1,5 +1,3 @@
-# Python-project-Youtube-Video-Comment-Chatbot
-
 ## 專案介紹
 
 本專案是一個 **YouTube 影片自動問答機器人**，可讓使用者輸入關鍵字搜尋 YouTube 影片，下載其音訊內容並使用 OpenAI Whisper API 轉錄音訊文字，最終透過 RAG (Retrieval-Augmented Generation) 技術建立知識庫，讓使用者能夠與影片內容進行互動對話。
@@ -68,4 +66,3 @@ python Youtube_video_comment_chatbot.ipynb
 ## 授權條款
 
 本專案採用 **MIT License**，歡迎自由使用與修改。
-
